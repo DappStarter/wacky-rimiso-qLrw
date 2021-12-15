@@ -1,0 +1,16 @@
+{
+    "name": "Ace Lending",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Ace Protocol",
+        "/category/asset_value_tracking/core-token/symbol": "ACE",
+        "/category/asset_value_tracking/core-token/decimals": "9",
+        "/category/asset_value_tracking/core-token/supply": "100000000000"
+    }
+}
